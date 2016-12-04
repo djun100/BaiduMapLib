@@ -1,1 +1,1 @@
-include ':app', ':baidumap_lib'
+include /*':app',*/ ':baidumap_lib'
